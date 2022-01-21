@@ -1,20 +1,20 @@
-# Readme Generator
+# README file generator
  
-   ![badge](https://img.shields.io/github/languages/top/bryonbsmb1/bryons readme gen)
+   ![badge](https://img.shields.io/github/languages/top/bryonbsmb1/bryon_readme_generator)
    <br> 
-   ![badge](https://img.shields.io/github/languages/count/bryonbsmb1/bryons readme gen)
+   ![badge](https://img.shields.io/github/languages/count/bryonbsmb1/bryon_readme_generator)
    <br>
-   ![badge](https://img.shields.io/github/issues/bryonbsmb1/bryons readme gen)
+   ![badge](https://img.shields.io/github/issues/bryonbsmb1/bryon_readme_generator)
    <br>
-   ![badge](https://img.shields.io/github/issues-closed/bryonbsmb1/bryons readme gen)
+   ![badge](https://img.shields.io/github/issues-closed/bryonbsmb1/bryon_readme_generator)
    <br>
-   ![badge](https://img.shields.io/github/last-commit/bryonbsmb1/bryons readme gen)
+   ![badge](https://img.shields.io/github/last-commit/bryonbsmb1/bryon_readme_generator)
    <br>
    ![badge](https://img.shields.io/badge/license-MIT-important)
    
    ## Description
    
-    helps make readme's easier 
+    Homework project to create an app that you can generate a polished README file through the command line. This app was used to create this README file.
   
    ## Table of Contents
    - [Description](#description)
@@ -28,19 +28,19 @@
    - [Contact](#contact)
  
    ## Documentation
-   node index.js in the cmd line
+   To run the app the user opens the terminal and runs npm i , then after that install the user types in node index.js 
   
    ## Usage
-   cmd line
+   The user will be asked a number of questions in the terminal, this information with create the actual README file.
  
    ## Screenshot
-   ![Screenshot](in git )
+   ![Screenshot](Assets/READMEscreenshot.png)
  
    ## Features
-   app title and install process
+   The app with auto generate a polished README file with the Installation,Usage, Lincense and other useful information for your README file.
    
    # Acknowledgements
-   Bryon Ball
+   Bryon Ball bmsmb1@gmail.com
      
    ## License
    ![badge](https://img.shields.io/badge/license-MIT-important)
@@ -49,7 +49,7 @@
  
  
    ## Testing
-   test
+   No tests for this project
  
    ## Contact:
-   Holler at me! <a href="mailto:bryonball@hotmail.com">bryonball@hotmail.com</a>
+   Holler at me! <a href="mailto:bmsmb1@gmail.com">bmsmb1@gmail.com</a>
