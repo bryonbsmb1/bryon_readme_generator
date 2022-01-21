@@ -56,7 +56,7 @@ function generateMarkdown(data) {
    ${data.testing}
  
    ## Contact:
-   Holler at me! <a href="mailto:${data.email}">${data.email}</a>`
+   Mail me with any questoins! <a href="mailto:${data.email}">${data.email}</a>`
   
  }
  
