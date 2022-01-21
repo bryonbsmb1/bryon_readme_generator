@@ -102,7 +102,7 @@ function init() {
                 console.log(err)
             }
             else {
-                console.log('Look at your spiffy new README!')
+                console.log('You just generated an awesome new README!')
             }
         })
     },
