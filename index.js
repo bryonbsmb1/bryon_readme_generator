@@ -1,21 +1,8 @@
 
 const inquirer = require('inquirer');
 const fs = require('fs');
+const generateMarkdown=require("./utils/generateMarkdown")
 
-const readMeData = (input) => `
-# Project Title
-${input.projectTitle}
-## Installation
-${input.installation}    
-## Usage/Examples
-${input.usage}
-## Contributing
-${input.contributing}
-## Running Tests
-${input.runningTests}
-## Feedback
-If you have any feedback, please reach out to me at ${input.feedback}
-`
 
 inquirer
   .prompt([
@@ -53,9 +40,23 @@ inquirer
         name: 'feedback',
         message: 'What email address is used for feedback?',
       },
+      {
+        type: 'list',
+        name: 'license',
+        message:'What license would you like you use?',
+        choices:["MIT","Apache","Hippocratic"]
+      },
+      {
+        type:'input',
+        name:'github',
+        message:'What is your github profile name?',
+
+  
+      }
+
   ])
   .then((input) => {
-    const readMe = readMeData(input)
+    const readMe = generateMarkdown(input)
     const filename = `README.md`;
 
     fs.writeFile(filename, readMe, (err) =>
