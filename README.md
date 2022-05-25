@@ -1,8 +1,9 @@
 
   # Project Title
-  gg
+  Bryon's ReadMe Generator
   # Table of Contents
   1. [License](#license)
+  1. [Github](#github)
   1. [Installation](#installation)
   2. [Usage](#usage)
   3. [Contributing](#contributing)
@@ -11,15 +12,15 @@
   ## Github
   [bryonbsmb1](https://github.com/bryonbsmb1)
   ## License
-  Hippocratic [![License: Hippocratic 3.0](https://img.shields.io/badge/License-Hippocratic_3.0-lightgrey.svg)](https://firstdonoharm.dev)
+  MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Installation
-  gg    
+  NPM, Inquirer    
   ## Usage
-  g
+  Used to generate a dynamic Readme file for your Github repos
   ## Contributing
-  g
+  Add your own data to the prompts in NPM
   ## Tests
-  g
+  NPM Start
   ## Feedback
-  If you have any feedback, please reach out to me at g
+  If you have any feedback, please reach out to me at bmsmb1@gmail.com
   
