@@ -11,7 +11,7 @@
   5. [Feedback](#feedback)
   ## Github
   [bryonbsmb1](https://github.com/bryonbsmb1)
-  ## Walkthrough Video Link
+  ## Walk through Video Link
   (https://youtu.be/0VkVf-BxWV8)
   ## License
   MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
