@@ -40,6 +40,8 @@ function generateMarkdown(input)
   5. [Feedback](#feedback)
   ## Github
   [${input.github}](https://github.com/${input.github})
+  ## Walkthrough Video Link
+  (https://youtu.be/0VkVf-BxWV8)
   ## License
   ${renderLicenseSection(input.license)}
   ## Installation

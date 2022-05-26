@@ -60,6 +60,6 @@ inquirer
     const filename = `README.md`;
 
     fs.writeFile(filename, readMe, (err) =>
-      err ? console.log(err) : console.log('Your new README thats Awesome is created!')
+      err ? console.log(err) : console.log('Your new README is now created!')
     );
   });

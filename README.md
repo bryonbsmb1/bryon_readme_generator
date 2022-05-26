@@ -1,6 +1,6 @@
 
   # Project Title
-  Bryon's ReadMe Generator
+  Readme Generator 
   # Table of Contents
   1. [License](#license)
   1. [Github](#github)
@@ -11,16 +11,18 @@
   5. [Feedback](#feedback)
   ## Github
   [bryonbsmb1](https://github.com/bryonbsmb1)
+  ## Walkthrough Video Link
+  (https://youtu.be/0VkVf-BxWV8)
   ## License
   MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Installation
-  NPM, Inquirer    
+  NPM and Inquirer    
   ## Usage
-  Used to generate a dynamic Readme file for your Github repos
+  To make a dynamic Readme for Github Repos
   ## Contributing
-  Add your own data to the prompts in NPM
+  Email Bryon
   ## Tests
-  NPM Start
+  npm start
   ## Feedback
   If you have any feedback, please reach out to me at bmsmb1@gmail.com
   
